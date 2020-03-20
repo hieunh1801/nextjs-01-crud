@@ -16,4 +16,5 @@ npm install --save-dev tslint-react-hooks
 npm install --save-dev prettier
 
 npm i node-fetch --save
+npm install --save-dev babel-plugin-module-resolver
 ```

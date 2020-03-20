@@ -14,7 +14,7 @@ import EmployeeDetail from 'components/employees-page/employee-detail';
 import fetch from 'isomorphic-unfetch';
 
 import { Employee } from 'interfaces/employee';
-import * as employeeService from './api/employee-service';
+import * as employeeService from '../api/employee-service';
 
 type Props = {
   employees: Employee[]
